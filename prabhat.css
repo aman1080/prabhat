@@ -1,0 +1,67 @@
+body{
+	background: #f9e8c6;
+	
+	
+	
+}
+
+
+
+a{
+  position: relative;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  
+  color: darkorange;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.5s;
+  letter-spacing: 2px;
+
+}
+a:hover{
+  background: orange;
+  color: orange;
+  box-shadow: 0 0 5px orange,
+              0 0 25px orange,
+              0 0 50px orange,
+              0 0 200px orange,
+}
+h1,h2{
+	color: orange;
+	size: 18px;
+	text-align: center;
+	margin-top: 10px;
+	letter-spacing: 5;
+}
+.a1{
+	
+	width: 800px;
+	height: 100%;
+	background: url(prabhat3.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	
+	
+}
+.a2{
+
+	background: #fd7259;
+	width: 550px;
+	height: 100%;
+	
+	
+	
+
+
+}
+table{
+	padding: 0;
+	margin: 0;
+	height: 668px;
+	width: 100%;
+}
